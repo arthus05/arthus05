@@ -2,7 +2,7 @@
 
 ## I'm a Student and Developer!
 
-- 🔭 I’m currently working in [CEOS Jr][website]!
+- 🔭 I’m currently working in [CEOS Jr][website] and [Insight][website2]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -46,6 +46,7 @@
 [git]:https://git-scm.com/
 [github]:https://github.com/
 [website]: https://github.com/ceos-jr
+[website2]: https://insightlab.ufc.br
 [twitter]: https://twitter.com/Arthus_Vinicius
 [instagram]: https://www.instagram.com/arthusvinicius/?hl=pt-br
 [linkedin]: https://www.linkedin.com/in/%C3%A1rthus-vin%C3%ADcius-cruz-de-moura-84790a125/
