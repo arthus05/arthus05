@@ -3,9 +3,9 @@
 ## I'm a Student and Developer!
 
 - 🔭 I’m currently working in [CEOS Jr][website] and [Insight][website2]!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning DevOps tecnologies 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Be a better developer, and get a remote job
 - ⚡ Fun fact: I love to draw and play guitar
 
 ### Connect with me:
