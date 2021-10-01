@@ -3,7 +3,7 @@
 ## I'm a Student and Developer!
 
 - 🔭 I’m currently working at [Insight][website2] as a FullStack Developer!
-- 🌱 I’m currently learning DevOps tecnologies
+- 🌱 I’m currently learning FrontEnd tecnologies like thee.js, d3...
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Be a better developer, and get a remote job
 - ⚡ Fun fact: I love to draw and play guitar
