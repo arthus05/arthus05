@@ -2,7 +2,7 @@
 
 ## I'm a Web Developer!
 
-- 🔭 I’m currently working at [Sciensa][website2] as a Frontend Developer!
+- 🔭 I’m currently working at [OLX][website2] as a Software Engineer!
 - 🌱 I’m currently studying FrontEnd tecnologies like react, next, three.js...
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Be a better developer, focusing on frontend, animations and nice looking UI
@@ -62,7 +62,7 @@
 [git]:https://git-scm.com/
 [github]:https://github.com/
 [website]: https://github.com/ceos-jr
-[website2]: https://www.sciensa.com/
+[website2]: https://portal.olx.com.br/#agora-somos-olx-brasil
 [twitter]: https://twitter.com/Arthus_Vinicius
 [instagram]: https://www.instagram.com/arthusvinicius/?hl=pt-br
 [linkedin]: https://www.linkedin.com/in/%C3%A1rthus-vin%C3%ADcius-cruz-de-moura-84790a125/
