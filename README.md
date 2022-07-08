@@ -3,9 +3,9 @@
 ## I'm a Web Developer!
 
 - 🔭 I’m currently working at [OLX][website2] as a Software Engineer!
-- 🌱 I’m currently studying FrontEnd tecnologies like react, next, three.js...
+- 🌱 I’m currently working with FrontEnd tecnologies like react, next, vue, nuxt...
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Be a better developer, focusing on frontend, animations and nice looking UI
+- 🥅 2022 Goals: Be a better developer, focusing on frontend, animations and nice looking UI
 
 
 <div align="center">
