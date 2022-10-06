@@ -7,13 +7,6 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Be a better developer, focusing on frontend, animations and nice looking UI
 
-
-<div align="center">
-  <a href="https://github.com/arthus05">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthus05&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthus05&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 ### Languages and Tools:
 
 <div>
