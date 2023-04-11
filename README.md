@@ -5,7 +5,7 @@
 - 🔭 I’m currently working at [OLX][website2] as a Software Engineer!
 - 🌱 I’m currently working with FrontEnd tecnologies like react, next, vue, nuxt...
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Be a better developer, focusing on frontend, animations and nice looking UI
+- 🥅 2023 Goals: Be a better developer, learning about software architecture, performance and scalability
 
 ### Languages and Tools:
 
