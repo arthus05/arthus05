@@ -2,7 +2,7 @@
 
 ## I'm a Web Developer!
 
-- 🔭 I’m currently working at [OLX][website2] as a Software Engineer!
+- 🔭 I’m currently working at [Turing][website2] as a Software Engineer!
 - 🌱 I’m currently working with FrontEnd tecnologies like react, next, vue, nuxt...
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Be a better developer, learning about software architecture, performance and scalability
@@ -55,7 +55,7 @@
 [git]:https://git-scm.com/
 [github]:https://github.com/
 [website]: https://github.com/ceos-jr
-[website2]: https://portal.olx.com.br/#agora-somos-olx-brasil
+[website2]: https://www.turing.com/
 [twitter]: https://twitter.com/Arthus_Vinicius
 [instagram]: https://www.instagram.com/arthusvinicius/?hl=pt-br
 [linkedin]: https://www.linkedin.com/in/%C3%A1rthus-vin%C3%ADcius-cruz-de-moura-84790a125/
