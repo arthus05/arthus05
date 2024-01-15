@@ -3,9 +3,9 @@
 ## I'm a Web Developer!
 
 - 🔭 I’m currently working at [Turing][website2] as a Software Engineer!
-- 🌱 I’m currently working with FrontEnd tecnologies like react, next, vue, nuxt...
+- 🌱 I’m currently working with FrontEnd tecnologies like react, vue, typescript...
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Be a better developer, learning about software architecture, performance and scalability
+- 🥅 2024 Goals: Be a better developer, learning about software architecture, performance and scalability
 
 ### Languages and Tools:
 
